@@ -9,7 +9,7 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-black/10"></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="glass-effect-large rounded-3xl p-8 md:p-12 animate-fade-in">
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold mb-6 text-gradient"># ReLeaf Co.</h1>
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold mb-6 text-gradient">The ReLeaf Co.</h1>
             <p className="text-2xl md:text-3xl font-serif mb-8 text-gray-800">Cultivating a Greener Future</p>
             <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-3xl mx-auto leading-relaxed">
               ReLeaf Co. is dedicated to pioneering innovative solutions to address critical environmental challenges
