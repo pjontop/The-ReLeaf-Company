@@ -1,6 +1,6 @@
 # ReLeaf Co. Website
 
-**# ReLeaf Co. Cultivating a Greener Future.**
+** ReLeaf Co. Cultivating a Greener Future.**
 
 ---
 
