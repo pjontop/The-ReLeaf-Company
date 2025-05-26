@@ -157,10 +157,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-For inquiries, please reach out to:
-
-* ReLeaf Co. Team: [contact@releafco.org](mailto:contact@releafco.org) (placeholder)
-* Project Link: <https://github.com/your-username/releaf-co-website> (placeholder)
